@@ -12,7 +12,7 @@
 // My CODE.   The table. ***********************************************************
 
 		echo "<table>\n";
-		echo "\t\t<caption>Таблица умножения</caption>\n";
+		echo "\t\t<caption>Таблица умножения</caption>\n";// table caption
 // table header
 				$th = 0;
 				echo "\t\t<tr>\n";
